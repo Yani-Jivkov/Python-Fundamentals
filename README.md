@@ -9,16 +9,27 @@ The repository is organized by homework sets, each named HomeworkN, where N repr
 # Example Structure:
 
 Homework1/: Basic Syntax, Conditional Statements and Loops
+
 Homework2/: Exercise: Basic Syntax, Conditional Statements and Loops
+
 Homework3/: Data Types and Variables
+
 Homework4/: Exercise: Data Types and Variables
+
 Homework5/: Lists Basics
+
 Homework6/: Exercise: Lists Basics
+
 Homework7/: Functions
+
 Homework8/: Exercise: Functions
+
 Homework9/: Lists Advanced
+
 Homework10/: Exercise: Lists Advanced
+
 Homework11/: Objects and Classes
+
 Homework12/: Exercise: Objects and Classes
 
 # Contact
