@@ -8,14 +8,18 @@ The repository is organized by homework sets, each named HomeworkN, where N repr
 
 # Example Structure:
 
-Homework1/: Introduction to Python and basic concepts.
-Homework2/: Control structures and loops.
-Homework3/: Functions and modules.
-Homework4/: Lists and dictionaries.
-Homework5/: Object-oriented programming basics.
-Projects/: Larger projects that apply concepts learned throughout the course.
-How to Use This Repository
-To explore the homework assignments, navigate through the HomeworkN folders. Each Python script within these folders is named in a sequential order, indicating the progression of assignments. To run any script, ensure you have Python installed on your machine, navigate to the script's directory in your terminal, and execute:
+Homework1/: Basic Syntax, Conditional Statements and Loops
+Homework2/: Exercise: Basic Syntax, Conditional Statements and Loops
+Homework3/: Data Types and Variables
+Homework4/: Exercise: Data Types and Variables
+Homework5/: Lists Basics
+Homework6/: Exercise: Lists Basics
+Homework7/: Functions
+Homework8/: Exercise: Functions
+Homework9/: Lists Advanced
+Homework10/: Exercise: Lists Advanced
+Homework11/: Objects and Classes
+Homework12/: Exercise: Objects and Classes
 
 # Contact
 
