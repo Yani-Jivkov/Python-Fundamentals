@@ -10,49 +10,27 @@ The repository is organized by homework sets, each named HomeworkN, where N repr
 
 Homework01/: [Basic Syntax, Conditional Statements and Loops](https://github.com/Yani-Jivkov/Python-Fundamentals/tree/main/Homework01)
 
-Homework02/: Exercise: Basic Syntax, Conditional Statements and Loops
+Homework02/: [Exercise: Basic Syntax, Conditional Statements and Loops](https://github.com/Yani-Jivkov/Python-Fundamentals/tree/main/Homework02)
 
-https://github.com/Yani-Jivkov/Python-Fundamentals/tree/main/Homework02
+Homework03/: [Data Types and Variables](https://github.com/Yani-Jivkov/Python-Fundamentals/tree/main/Homework03)
 
-Homework03/: Data Types and Variables
+Homework04/: [Exercise: Data Types and Variables](https://github.com/Yani-Jivkov/Python-Fundamentals/tree/main/Homework04)
 
-https://github.com/Yani-Jivkov/Python-Fundamentals/tree/main/Homework03
+Homework05/: [Lists Basics](https://github.com/Yani-Jivkov/Python-Fundamentals/tree/main/Homework05)
 
-Homework04/: Exercise: Data Types and Variables
+Homework06/: [Exercise: Lists Basics](https://github.com/Yani-Jivkov/Python-Fundamentals/tree/main/Homework06)
 
-https://github.com/Yani-Jivkov/Python-Fundamentals/tree/main/Homework04
+Homework07/: [Functions](https://github.com/Yani-Jivkov/Python-Fundamentals/tree/main/Homework07)
 
-Homework05/: Lists Basics
+Homework08/: [Exercise: Functions](https://github.com/Yani-Jivkov/Python-Fundamentals/tree/main/Homework08)
 
-https://github.com/Yani-Jivkov/Python-Fundamentals/tree/main/Homework05
+Homework09/: [List Advanced](https://github.com/Yani-Jivkov/Python-Fundamentals/tree/main/Homework09)
 
-Homework06/: Exercise: Lists Basics
+Homework10/: [Exercise: List Advanced](https://github.com/Yani-Jivkov/Python-Fundamentals/tree/main/Homework10)
 
-https://github.com/Yani-Jivkov/Python-Fundamentals/tree/main/Homework06
+Homework11/: [Objects and Classes](https://github.com/Yani-Jivkov/Python-Fundamentals/tree/main/Homework11)
 
-Homework07/: Functions
-
-https://github.com/Yani-Jivkov/Python-Fundamentals/tree/main/Homework07
-
-Homework08/: Exercise: Functions
-
-https://github.com/Yani-Jivkov/Python-Fundamentals/tree/main/Homework08
-
-Homework09/: Lists Advanced
-
-https://github.com/Yani-Jivkov/Python-Fundamentals/tree/main/Homework09
-
-Homework10/: Exercise: Lists Advanced
-
-https://github.com/Yani-Jivkov/Python-Fundamentals/tree/main/Homework10
-
-Homework11/: Objects and Classes
-
-https://github.com/Yani-Jivkov/Python-Fundamentals/tree/main/Homework11
-
-Homework12/: Exercise: Objects and Classes
-
-https://github.com/Yani-Jivkov/Python-Fundamentals/tree/main/Homework12
+Homework12/: [Exersice: Objects and Classes](https://github.com/Yani-Jivkov/Python-Fundamentals/tree/main/Homework12)
 
 # Contact
 
