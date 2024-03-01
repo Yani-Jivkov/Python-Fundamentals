@@ -22,4 +22,5 @@ To explore the homework assignments, navigate through the HomeworkN folders. Eac
 If you have any questions or would like to reach out for a discussion, feel free to contact me:
 
 Email: yanizhivkov12@gmail.com
+
 GitHub: @Yani-Jivkov
