@@ -8,9 +8,7 @@ The repository is organized by homework sets, each named HomeworkN, where N repr
 
 # Example Structure:
 
-Homework01/: Basic Syntax, Conditional Statements and Loops
-
-https://github.com/Yani-Jivkov/Python-Fundamentals/tree/main/Homework01
+Homework01/: [Basic Syntax, Conditional Statements and Loops](https://github.com/Yani-Jivkov/Python-Fundamentals/tree/main/Homework01)
 
 Homework02/: Exercise: Basic Syntax, Conditional Statements and Loops
 
