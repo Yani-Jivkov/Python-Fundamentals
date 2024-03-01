@@ -8,29 +8,41 @@ The repository is organized by homework sets, each named HomeworkN, where N repr
 
 # Example Structure:
 
-Homework1/: Basic Syntax, Conditional Statements and Loops
+Homework01/: Basic Syntax, Conditional Statements and Loops
+https://github.com/Yani-Jivkov/Python-Fundamentals/tree/main/Homework01
 
-Homework2/: Exercise: Basic Syntax, Conditional Statements and Loops
+Homework02/: Exercise: Basic Syntax, Conditional Statements and Loops
+https://github.com/Yani-Jivkov/Python-Fundamentals/tree/main/Homework02
 
-Homework3/: Data Types and Variables
+Homework03/: Data Types and Variables
+https://github.com/Yani-Jivkov/Python-Fundamentals/tree/main/Homework03
 
-Homework4/: Exercise: Data Types and Variables
+Homework04/: Exercise: Data Types and Variables
+https://github.com/Yani-Jivkov/Python-Fundamentals/tree/main/Homework04
 
-Homework5/: Lists Basics
+Homework05/: Lists Basics
+https://github.com/Yani-Jivkov/Python-Fundamentals/tree/main/Homework05
 
-Homework6/: Exercise: Lists Basics
+Homework06/: Exercise: Lists Basics
+https://github.com/Yani-Jivkov/Python-Fundamentals/tree/main/Homework06
 
-Homework7/: Functions
+Homework07/: Functions
+https://github.com/Yani-Jivkov/Python-Fundamentals/tree/main/Homework07
 
-Homework8/: Exercise: Functions
+Homework08/: Exercise: Functions
+https://github.com/Yani-Jivkov/Python-Fundamentals/tree/main/Homework08
 
-Homework9/: Lists Advanced
+Homework09/: Lists Advanced
+https://github.com/Yani-Jivkov/Python-Fundamentals/tree/main/Homework09
 
 Homework10/: Exercise: Lists Advanced
+https://github.com/Yani-Jivkov/Python-Fundamentals/tree/main/Homework10
 
 Homework11/: Objects and Classes
+https://github.com/Yani-Jivkov/Python-Fundamentals/tree/main/Homework11
 
 Homework12/: Exercise: Objects and Classes
+https://github.com/Yani-Jivkov/Python-Fundamentals/tree/main/Homework12
 
 # Contact
 
