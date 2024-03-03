@@ -6,7 +6,7 @@ Welcome to my repository for the "Programming Fundamentals with Python" course h
 
 The repository is organized by homework sets, each named HomeworkN, where N represents the week number. Inside each homework set, you'll find Python scripts numbered sequentially. These scripts are solutions to the weekly programming assignments and collectively cover a wide range of fundamental programming concepts in Python.
 
-# Example Structure:
+# Structure:
 
 Homework01/: [Basic Syntax, Conditional Statements and Loops](https://github.com/Yani-Jivkov/Python-Fundamentals/tree/main/Homework01)
 
