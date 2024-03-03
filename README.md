@@ -30,7 +30,7 @@ Homework10/: [Exercise: List Advanced](https://github.com/Yani-Jivkov/Python-Fun
 
 Homework11/: [Objects and Classes](https://github.com/Yani-Jivkov/Python-Fundamentals/tree/main/Homework11)
 
-Homework12/: [Exersice: Objects and Classes](https://github.com/Yani-Jivkov/Python-Fundamentals/tree/main/Homework12)
+Homework12/: [Exercise: Objects and Classes](https://github.com/Yani-Jivkov/Python-Fundamentals/tree/main/Homework12)
 
 # Contact
 
