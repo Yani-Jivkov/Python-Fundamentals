@@ -32,6 +32,8 @@ Homework11/: [Objects and Classes](https://github.com/Yani-Jivkov/Python-Fundame
 
 Homework12/: [Exercise: Objects and Classes](https://github.com/Yani-Jivkov/Python-Fundamentals/tree/main/Homework12)
 
+Homework13/: [Dictionaries](https://github.com/Yani-Jivkov/Python-Fundamentals/tree/main/Homework13)
+
 # Contact
 
 If you have any questions or would like to reach out for a discussion, feel free to contact me:
