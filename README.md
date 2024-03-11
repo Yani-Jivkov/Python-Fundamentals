@@ -34,7 +34,7 @@ Homework12/: [Exercise: Objects and Classes](https://github.com/Yani-Jivkov/Pyth
 
 Homework13/: [Dictionaries](https://github.com/Yani-Jivkov/Python-Fundamentals/tree/main/Homework13)
 
-Homework14/: [Exersice:Dictionaries](https://github.com/Yani-Jivkov/Python-Fundamentals/tree/main/Homework14)
+Homework14/: [Exersice: Dictionaries](https://github.com/Yani-Jivkov/Python-Fundamentals/tree/main/Homework14)
 
 # Contact
 
