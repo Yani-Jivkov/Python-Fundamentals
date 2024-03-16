@@ -36,6 +36,8 @@ Homework13/: [Dictionaries](https://github.com/Yani-Jivkov/Python-Fundamentals/t
 
 Homework14/: [Exersice: Dictionaries](https://github.com/Yani-Jivkov/Python-Fundamentals/tree/main/Homework14)
 
+Homework15/: [Text Processing](https://github.com/Yani-Jivkov/Python-Fundamentals/tree/main/Homework15)
+
 # Contact
 
 If you have any questions or would like to reach out for a discussion, feel free to contact me:
