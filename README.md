@@ -38,9 +38,11 @@ Homework14/: [Exersice: Dictionaries](https://github.com/Yani-Jivkov/Python-Fund
 
 Homework15/: [Text Processing](https://github.com/Yani-Jivkov/Python-Fundamentals/tree/main/Homework15)
 
-Homework16/: [Regular Expressions](https://github.com/Yani-Jivkov/Python-Fundamentals/tree/main/Homework16)
+Homework16/: [Exersice: Text Processing](https://github.com/Yani-Jivkov/Python-Fundamentals/tree/main/Homework16)
 
-Homework17/: [Exercise: Regular Expressions](https://github.com/Yani-Jivkov/Python-Fundamentals/tree/main/Homework17)
+Homework17/: [Regular Expressions](https://github.com/Yani-Jivkov/Python-Fundamentals/tree/main/Homework17)
+
+Homewor18/: [Exercise: Regular Expressions](https://github.com/Yani-Jivkov/Python-Fundamentals/tree/main/Homework18)
 
 # Contact
 
