@@ -42,7 +42,7 @@ Homework16/: [Exersice: Text Processing](https://github.com/Yani-Jivkov/Python-F
 
 Homework17/: [Regular Expressions](https://github.com/Yani-Jivkov/Python-Fundamentals/tree/main/Homework17)
 
-Homewor18/: [Exercise: Regular Expressions](https://github.com/Yani-Jivkov/Python-Fundamentals/tree/main/Homework18)
+Homework18/: [Exercise: Regular Expressions](https://github.com/Yani-Jivkov/Python-Fundamentals/tree/main/Homework18)
 
 # Contact
 
